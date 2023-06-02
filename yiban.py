@@ -61,7 +61,7 @@ class Yiban:
         self.password = password
         self.session = requests.session()
         self.name = ""
-        self.HEADERS = {"Origin": "'https://m.yiban.cn", 'AppVersion': '5.0.1', "User-Agent": "YiBan/5.0.1"}
+        self.HEADERS = {"Origin": "'https://m.yiban.cn", 'AppVersion': '5.1.18', "User-Agent": "YiBan/5.1.18"}
         self.COOKIES = {"csrf_token": self.CSRF}
 
     def request(self, url, method="get", params=None, cookies=None):
