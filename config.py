@@ -42,8 +42,8 @@ admin = {
 # 账号设置
 account = [
     {
-        "mobile": "18061699904",
-        "password": "WYLbbs123..",
+        "mobile": "",
+        "password": "",
         "mail": "",
         "pushToken": "",
         "notice": ""
