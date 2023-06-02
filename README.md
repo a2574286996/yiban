@@ -10,7 +10,7 @@
 在`config.py`文件中
 
 ```python
-address = '{"Reason":"","AttachmentFileName":"","LngLat":"102.449018,24.875743","Address":"云南省 昆明市 xxx学校xxx楼 "}'
+address = '{"Reason":"","AttachmentFileName":"","LngLat":"102.449018,24.875743","Address":"xx省 xx市 xxx学校xxx楼 "}'
 ```
 
 需要修改`LngLat`和`Address`
