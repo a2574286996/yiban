@@ -23,7 +23,7 @@ python3.10
 ### 运行方式
 
 ```shell
-git clone https://ghproxy.com/https://github.com/rookiesmile/yibanAutoSgin.git
+git clone https://ghproxy.com/https://github.com/a2574286996/yiban.git
 cd yiban
 python main.py
 ```
