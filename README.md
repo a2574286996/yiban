@@ -1,7 +1,10 @@
-# 代码来自：https://github.com/rookiesmile/yibanAutoSgin 大佬
-易班晚点签到
+代码来自：https://github.com/rookiesmile/yibanAutoSgin 大佬
+
+# 易班晚点签到
+
 ### 实现功能
 * 晚点位置签到
+* 
 ### 注意修改签到位置
 
 在`config.py`文件中
