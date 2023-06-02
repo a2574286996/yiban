@@ -15,7 +15,7 @@ from yiban import Yiban
 import config
 from notice import Notice
 
-# ===========================================================
+# ============================================================
 # Github actions 使用，本地使用请注释
 try:
     config.account[0]["mobile"] = os.environ["YB_MOBILE"]
