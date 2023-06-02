@@ -32,4 +32,4 @@ python main.py
 ```shell
 0 21 * * * python3 /root/Documents/Python/yiban/main.py
 ```
-(供参考)
+(仅供参考)
